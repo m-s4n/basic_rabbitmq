@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Publisher",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildpublisher",
+            "program": "${workspaceFolder}/RabbitPublisher/bin/Debug/net7.0/App.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/RabbitPublisher",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Consumer",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildconsumer",
+            "program": "${workspaceFolder}/RabbitConsumer/bin/Debug/net7.0/App.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/RabbitConsumer",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        
+    ],
+    "compounds": [
+        {
+            "name": "Publisher & Consumer",
+            "configurations": [
+                "Consumer",
+                "Publisher"
+            ],
+            "stopAll": true
+        }
+    ]
+}
