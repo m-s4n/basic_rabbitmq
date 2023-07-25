@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2OraBdPLA0SZYDkzBa1SXMwoHKYrvWq+hpS4aMmuQ/eoYjnxF6jyxlU0+m/qOsYfdGBR13czjCVZlKiOv4OSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Seymen\\Desktop\\dersler\\rmq\\BasicPubSub\\Direct.Exchange.Consumer\\Direct.Exchange.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seymen\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Seymen\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Seymen\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

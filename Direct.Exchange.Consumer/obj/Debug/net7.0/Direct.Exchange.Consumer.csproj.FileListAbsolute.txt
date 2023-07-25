@@ -1,0 +1,17 @@
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\bin\Debug\net7.0\Direct.Exchange.Consumer.exe
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\bin\Debug\net7.0\Direct.Exchange.Consumer.deps.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\bin\Debug\net7.0\Direct.Exchange.Consumer.runtimeconfig.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\bin\Debug\net7.0\Direct.Exchange.Consumer.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\bin\Debug\net7.0\Direct.Exchange.Consumer.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.csproj.AssemblyReference.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.AssemblyInfoInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.AssemblyInfo.cs
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.csproj.CopyComplete
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\refint\Direct.Exchange.Consumer.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\Direct.Exchange.Consumer.genruntimeconfig.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Direct.Exchange.Consumer\obj\Debug\net7.0\ref\Direct.Exchange.Consumer.dll

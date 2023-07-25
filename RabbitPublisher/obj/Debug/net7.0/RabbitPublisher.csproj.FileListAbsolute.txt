@@ -1,3 +1,8 @@
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.exe
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.deps.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.runtimeconfig.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.pdb
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\RabbitMQ.Client.dll
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\RabbitPublisher.csproj.AssemblyReference.cache
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\RabbitPublisher.GeneratedMSBuildEditorConfig.editorconfig
@@ -5,13 +10,8 @@ C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\RabbitPublisher.AssemblyInfo.cs
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\RabbitPublisher.csproj.CoreCompileInputs.cache
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\RabbitPublisher.csproj.CopyComplete
-C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\RabbitPublisher.genruntimeconfig.cache
-C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.exe
-C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.deps.json
-C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.runtimeconfig.json
-C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.dll
-C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\bin\Debug\net7.0\App.pdb
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\App.dll
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\refint\App.dll
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\App.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\RabbitPublisher.genruntimeconfig.cache
 C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\RabbitPublisher\obj\Debug\net7.0\ref\App.dll

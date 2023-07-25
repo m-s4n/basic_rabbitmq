@@ -16,8 +16,12 @@ using IConnection connection = factory.CreateConnection();
 // Kanal Açma
 using IModel channel = connection.CreateModel();
 
-// Queue Oluşturma 
+// Queue Oluşturma                                   queue: kalıcılığı
 channel.QueueDeclare(queue: "gs", exclusive: false, durable: true, autoDelete: false);
+
+// mesaj kalıcılığı
+IBasicProperties properties = channel.CreateBasicProperties();
+properties.Persistent = true;
 
 // Mesaj Gönderme
 // RabbitMQ mesajları byte[] olarak kabul eder
@@ -25,7 +29,7 @@ while (true)
 {
     string mesaj = Console.ReadLine() ?? "mesaj girilmedi";
     byte[] byteMesaj = Encoding.UTF8.GetBytes(mesaj);
-    channel.BasicPublish(exchange: "", routingKey: "gs", body: byteMesaj);
+    channel.BasicPublish(exchange: "", routingKey: "gs", body: byteMesaj, basicProperties: properties);
 }
 
 

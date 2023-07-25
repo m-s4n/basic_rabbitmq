@@ -20,12 +20,21 @@ channel.QueueDeclare(queue: "gs", exclusive: false, durable: true, autoDelete: f
 
 // Mesaj Okuma
 EventingBasicConsumer consumer = new(channel);
-channel.BasicConsume(queue: "gs", autoAck: true, consumer: consumer);
-consumer.Received += (sender, e) => {
+// autoAck: Message Ack özelliği false ile aktif edilir
+var consumerTag = channel.BasicConsume(queue: "gs", autoAck: false, consumer: consumer);
+// fair dispatch
+channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
+// Tüm mesajlar reddedilerek işlenmez
+// channel.BasicCancel(consumerTag: consumerTag);
+consumer.Received += (sender, e) =>
+{
     // Mesajın işlendiği alan
     string mesaj = Encoding.UTF8.GetString(e.Body.Span);
     Console.WriteLine(mesaj);
+    // e.DeliveryTag = mesaj id
+    // multiple false --> ilgili mesaja dair onay bildirimi
+    // multiple true --> ilgili mesaj ve bundan önceki mesajlar için onay bildirimi
+    channel.BasicAck(deliveryTag: e.DeliveryTag, multiple: false); // mesaj işlendi onayı
 };
 
 Console.ReadLine();
-  

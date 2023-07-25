@@ -26,6 +26,28 @@
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
+        {
+            "name": "Direct_Exchange_Publisher",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_direct_exchange_publisher",
+            "program": "${workspaceFolder}/Direct.Exchange.Publisher/bin/Debug/net7.0/App.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Direct.Exchange.Publisher",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Direct_Exchange_Consumer",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_direct_exchange_consumer",
+            "program": "${workspaceFolder}/Direct.Exchange.Consumer/bin/Debug/net7.0/App.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Direct.Exchange.Consumer",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
         
     ],
     "compounds": [
