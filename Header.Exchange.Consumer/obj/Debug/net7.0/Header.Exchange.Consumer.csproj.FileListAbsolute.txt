@@ -1,0 +1,17 @@
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\Header.Exchange.Consumer.csproj.AssemblyReference.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\Header.Exchange.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\Header.Exchange.Consumer.AssemblyInfoInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\Header.Exchange.Consumer.AssemblyInfo.cs
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\Header.Exchange.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\bin\Debug\net7.0\App.exe
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\bin\Debug\net7.0\App.deps.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\bin\Debug\net7.0\App.runtimeconfig.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\bin\Debug\net7.0\App.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\bin\Debug\net7.0\App.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\Header.Exchange.Consumer.csproj.CopyComplete
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\App.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\refint\App.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\App.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\Header.Exchange.Consumer.genruntimeconfig.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\Header.Exchange.Consumer\obj\Debug\net7.0\ref\App.dll
