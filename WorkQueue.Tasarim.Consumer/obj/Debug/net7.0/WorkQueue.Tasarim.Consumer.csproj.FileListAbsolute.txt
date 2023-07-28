@@ -1,0 +1,17 @@
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\bin\Debug\net7.0\WorkQueue.Tasarim.Consumer.exe
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\bin\Debug\net7.0\WorkQueue.Tasarim.Consumer.deps.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\bin\Debug\net7.0\WorkQueue.Tasarim.Consumer.runtimeconfig.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\bin\Debug\net7.0\WorkQueue.Tasarim.Consumer.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\bin\Debug\net7.0\WorkQueue.Tasarim.Consumer.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.csproj.AssemblyReference.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.AssemblyInfoInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.AssemblyInfo.cs
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.csproj.CopyComplete
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\refint\WorkQueue.Tasarim.Consumer.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\WorkQueue.Tasarim.Consumer.genruntimeconfig.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Consumer\obj\Debug\net7.0\ref\WorkQueue.Tasarim.Consumer.dll

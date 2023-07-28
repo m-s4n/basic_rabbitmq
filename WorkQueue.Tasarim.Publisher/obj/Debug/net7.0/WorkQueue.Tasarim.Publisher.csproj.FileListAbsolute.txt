@@ -1,0 +1,17 @@
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\bin\Debug\net7.0\WorkQueue.Tasarim.Publisher.exe
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\bin\Debug\net7.0\WorkQueue.Tasarim.Publisher.deps.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\bin\Debug\net7.0\WorkQueue.Tasarim.Publisher.runtimeconfig.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\bin\Debug\net7.0\WorkQueue.Tasarim.Publisher.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\bin\Debug\net7.0\WorkQueue.Tasarim.Publisher.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.csproj.AssemblyReference.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.AssemblyInfoInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.AssemblyInfo.cs
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.csproj.CopyComplete
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\refint\WorkQueue.Tasarim.Publisher.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\WorkQueue.Tasarim.Publisher.genruntimeconfig.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\WorkQueue.Tasarim.Publisher\obj\Debug\net7.0\ref\WorkQueue.Tasarim.Publisher.dll
