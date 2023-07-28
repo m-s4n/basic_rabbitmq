@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Header.Exchange.Consumer", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Header.Exchange.Publisher", "Header.Exchange.Publisher\Header.Exchange.Publisher.csproj", "{888E0628-180E-4488-9F51-46873E23FFB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointToPoint.Tasarim.Consumer", "PointToPoint.Tasarim.Consumer\PointToPoint.Tasarim.Consumer.csproj", "{A3008B3C-8BB1-45D6-A927-AC7DBF16F322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointToPoint.Tasarim.Publisher", "PointToPoint.Tasarim.Publisher\PointToPoint.Tasarim.Publisher.csproj", "{92F2CDFD-91C6-4665-BF04-57558EF1BCF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{888E0628-180E-4488-9F51-46873E23FFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{888E0628-180E-4488-9F51-46873E23FFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{888E0628-180E-4488-9F51-46873E23FFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3008B3C-8BB1-45D6-A927-AC7DBF16F322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3008B3C-8BB1-45D6-A927-AC7DBF16F322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3008B3C-8BB1-45D6-A927-AC7DBF16F322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3008B3C-8BB1-45D6-A927-AC7DBF16F322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F2CDFD-91C6-4665-BF04-57558EF1BCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F2CDFD-91C6-4665-BF04-57558EF1BCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F2CDFD-91C6-4665-BF04-57558EF1BCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F2CDFD-91C6-4665-BF04-57558EF1BCF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\bin\Debug\net7.0\PointToPoint.Tasarim.Publisher.exe
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\bin\Debug\net7.0\PointToPoint.Tasarim.Publisher.deps.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\bin\Debug\net7.0\PointToPoint.Tasarim.Publisher.runtimeconfig.json
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\bin\Debug\net7.0\PointToPoint.Tasarim.Publisher.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\bin\Debug\net7.0\PointToPoint.Tasarim.Publisher.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.csproj.AssemblyReference.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.AssemblyInfoInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.AssemblyInfo.cs
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.csproj.CopyComplete
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\refint\PointToPoint.Tasarim.Publisher.dll
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.pdb
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\PointToPoint.Tasarim.Publisher.genruntimeconfig.cache
+C:\Users\Seymen\Desktop\dersler\rmq\BasicPubSub\PointToPoint.Tasarim.Publisher\obj\Debug\net7.0\ref\PointToPoint.Tasarim.Publisher.dll
