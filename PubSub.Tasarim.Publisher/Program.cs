@@ -15,16 +15,19 @@ using IConnection connection = factory.CreateConnection();
 // Kanal Açma
 using IModel channel = connection.CreateModel();
 
-//P2P
-// mesaj direkt olarak kuyruğa gönderileceği için direkt kuyruk oluşturulur.
-channel.QueueDeclare(queue: "p2p_queue_1", durable: true, exclusive: false, autoDelete: false);
+//Pub-Sub
+// mesaj exchange'e gönderileceği için exchange oluşturulur
+channel.ExchangeDeclare(exchange: "pub_sub_exchange_1", type:ExchangeType.Fanout,durable: true, autoDelete: false);
 IBasicProperties properties = channel.CreateBasicProperties();
 properties.Persistent = true;
 
-while (true)
+// mesaj gönderilir
+while(true)
 {
-    Console.Write("Mesaj giriniz: ");
+    Console.Write("Mesaj giriniz:");
     string mesaj = Console.ReadLine() ?? "Mesaj girilmedi";
     byte[] byteMesaj = Encoding.UTF8.GetBytes(mesaj);
-    channel.BasicPublish(exchange: string.Empty, routingKey: "p2p_queue_1", body: byteMesaj, basicProperties: properties);
+    channel.BasicPublish(exchange: "pub_sub_exchange_1", routingKey: string.Empty, body: byteMesaj, basicProperties: properties);
 }
+
+

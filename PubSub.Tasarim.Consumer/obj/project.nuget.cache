@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkGFbcRuGlnK9ie15in0VdPXA8T5hbDoRq2ymsipUWv7DoKKAJW61KkTQhNJhjYx4N0R1cij88LxE+Uh418H3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Seymen\\Desktop\\dersler\\rmq\\BasicPubSub\\PubSub.Tasarim.Consumer\\PubSub.Tasarim.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seymen\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Seymen\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Seymen\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
