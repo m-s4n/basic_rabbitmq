@@ -49,6 +49,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESB.MassTransit.WorkerServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESB.MassTransit.WorkerService.Consumer", "ESB.MassTransit.WorkerService.Consumer\ESB.MassTransit.WorkerService.Consumer.csproj", "{276A5042-2D2F-43CD-87EA-4EC2903235D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESB.MassTransit.ReqResPattern.Consumer", "ESB.MassTransit.ReqResPattern.Consumer\ESB.MassTransit.ReqResPattern.Consumer.csproj", "{0CFC2F98-52B3-40D6-AE51-18CF33D2912D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESB.MassTransit.ReqResPattern.Publisher", "ESB.MassTransit.ReqResPattern.Publisher\ESB.MassTransit.ReqResPattern.Publisher.csproj", "{947FD816-E33E-4130-9C63-0CD05E1DCE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESB.MassTransit.ReqResPattern.Shared", "ESB.MassTransit.ReqResPattern.Shared\ESB.MassTransit.ReqResPattern.Shared.csproj", "{294203B5-0B92-4778-949F-B0BEBBE0A967}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +156,17 @@ Global
 		{276A5042-2D2F-43CD-87EA-4EC2903235D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{276A5042-2D2F-43CD-87EA-4EC2903235D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{276A5042-2D2F-43CD-87EA-4EC2903235D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFC2F98-52B3-40D6-AE51-18CF33D2912D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFC2F98-52B3-40D6-AE51-18CF33D2912D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFC2F98-52B3-40D6-AE51-18CF33D2912D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFC2F98-52B3-40D6-AE51-18CF33D2912D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947FD816-E33E-4130-9C63-0CD05E1DCE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947FD816-E33E-4130-9C63-0CD05E1DCE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947FD816-E33E-4130-9C63-0CD05E1DCE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947FD816-E33E-4130-9C63-0CD05E1DCE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294203B5-0B92-4778-949F-B0BEBBE0A967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294203B5-0B92-4778-949F-B0BEBBE0A967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294203B5-0B92-4778-949F-B0BEBBE0A967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294203B5-0B92-4778-949F-B0BEBBE0A967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
