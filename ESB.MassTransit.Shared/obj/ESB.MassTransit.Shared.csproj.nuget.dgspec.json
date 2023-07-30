@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Seymen\\Desktop\\dersler\\rmq\\BasicPubSub\\ESB.MassTransit.Shared\\ESB.MassTransit.Shared.csproj",
-        "projectName": "SharedApp",
+        "projectName": "ESB.MassTransit.Shared",
         "projectPath": "C:\\Users\\Seymen\\Desktop\\dersler\\rmq\\BasicPubSub\\ESB.MassTransit.Shared\\ESB.MassTransit.Shared.csproj",
         "packagesPath": "C:\\Users\\Seymen\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Seymen\\Desktop\\dersler\\rmq\\BasicPubSub\\ESB.MassTransit.Shared\\obj\\",

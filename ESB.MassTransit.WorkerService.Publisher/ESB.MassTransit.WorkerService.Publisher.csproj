@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-ESB.MassTransit.WorkerService.Publisher-7faf3141-1093-4c45-9cb7-530c1c37535c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.0.16" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESB.MassTransit.Shared\ESB.MassTransit.Shared.csproj" />
+  </ItemGroup>
+</Project>
